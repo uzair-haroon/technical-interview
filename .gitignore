@@ -1,0 +1,24 @@
+# Visual Studio specific files
+*.suo
+*.user
+*.sln
+*.vbproj
+*.csproj
+*.fslproj
+*.projitems
+*.obj
+*.bin
+*.pdb
+
+# Build output
+/bin/
+/obj/
+
+# Temporary files
+*.tmp
+*.temp
+*.ilk
+*.log
+
+# Unit Tests (adjust path if necessary)
+/TestResults/
